@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+Kaggle Notebook
+GPU T4*2
